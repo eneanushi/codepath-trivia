@@ -30,7 +30,14 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<div style="position: relative; padding-bottom: 212.59842519685037%; height: 0;"><iframe src="https://www.loom.com/embed/30e1a7a663994ed29592c7f890e8c993?sid=6434ab0d-476c-4321-8d99-bcdf99d1d3ef" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/243fd9b997ca482084ce92e0d381d4d8">
+    </a>
+    <a href="https://www.loom.com/share/243fd9b997ca482084ce92e0d381d4d8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/243fd9b997ca482084ce92e0d381d4d8-with-play.gif">
+    </a>
+  </div>
+
 
 ## Notes
 
@@ -88,7 +95,7 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/30e1a7a663994ed29592c7f890e8c993">
     </a>
     <a href="https://www.loom.com/share/30e1a7a663994ed29592c7f890e8c993">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/30e1a7a663994ed29592c7f890e8c993-with-play.gif">
     </a>
   </div>
 ## Notes
