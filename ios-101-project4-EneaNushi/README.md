@@ -33,8 +33,9 @@ The following **additional** features are implemented:
     <a href="https://www.loom.com/share/30e1a7a663994ed29592c7f890e8c993">
     </a>
     <a href="https://www.loom.com/share/30e1a7a663994ed29592c7f890e8c993">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/30e1a7a663994ed29592c7f890e8c993-with-play.gif">
     </a>
+  </div>
   </div>
 ## Notes
 
